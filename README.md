@@ -11,6 +11,10 @@ Download both files (us.txt and renameVMworldSessionFiles.ps1)
 ./renameVMworldSessionFiles.ps1 <path to us.txt> <path to session recording directory>
   
   
+  
+The script and us.txt are based on https://github.com/lamw/vmworld2019-session-urls by @wlam 
+  
+  
 
 
 
