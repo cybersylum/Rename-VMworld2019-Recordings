@@ -1,6 +1,6 @@
 # Rename-VMworld2019-Recordings
 
-A script to complement the torrent file created by Tim Borland (@Borlandts).  You can find information on his creation at https://medium.com/@timothy.borland/vmworld-2019-session-recordings-6409959b876e
+A script to compliment the torrent file created by Tim Borland (@Borlandts).  You can find information on his creation at https://medium.com/@timothy.borland/vmworld-2019-session-recordings-6409959b876e
 
 Once you have downloaded the files, this script will add the Session Description to the filenames of the recordings.  I wrote this to make the library in my Plex a bit easier to read.  I hope you enjoy it!  
 
